@@ -1,0 +1,15 @@
+{
+  "name": "practiapersonal",
+  "version": "0.0.1",
+  "description": "pepe PRUEBA",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Cataño",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
